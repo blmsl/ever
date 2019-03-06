@@ -457,9 +457,10 @@
     "@types/minimatch" "*"
     "@types/node" "*"
 
-"@types/googlemaps@^3.30.16":
-  version "3.30.16"
-  resolved "https://registry.yarnpkg.com/@types/googlemaps/-/googlemaps-3.30.16.tgz#3264d5ef7c3a92fab2a9f00e09e3247866ff3532"
+"@types/googlemaps@^3.30.18":
+  version "3.30.18"
+  resolved "https://registry.yarnpkg.com/@types/googlemaps/-/googlemaps-3.30.18.tgz#c7076c68bff44e99c09b99926568a6a3fb15be44"
+  integrity sha512-rXYs277SHf7ceAR7RSoGh/fkYvy2eBl5mvmMlUEcPMMkwCP9XkFdwrtDZ4OGeEawOfnwauu/yoi0eTpfGp4MPg==
 
 "@types/hammerjs@^2.0.36":
   version "2.0.36"
