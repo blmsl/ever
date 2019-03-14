@@ -166,7 +166,7 @@
 		"@types/node": "^11.9.3",
 		"@types/passport": "^1.0.0",
 		"@types/passport-jwt": "^3.0.1",
-		"@types/redis": "^2.8.10",
+		"@types/redis": "^2.8.11",
 		"@types/reflect-metadata": "^0.1.0",
 		"@types/request": "^2.48.1",
 		"@types/request-promise": "^4.1.42",
