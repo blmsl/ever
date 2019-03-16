@@ -557,10 +557,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/stripe@^6.19.8":
-  version "6.19.8"
-  resolved "https://registry.yarnpkg.com/@types/stripe/-/stripe-6.19.8.tgz#8a48761da6b8b19b8dbe079f9a87ed5a9999d751"
-  integrity sha512-MJbX7QjwV7sgoeHHsTtp1twAkplKfuY5M8b09Ko6Hf0mCfnECDA9iJ13VamLoPhxwaEkEL+FX+WSSZmUKO+Dkw==
+"@types/stripe@^6.25.6":
+  version "6.25.6"
+  resolved "https://registry.yarnpkg.com/@types/stripe/-/stripe-6.25.6.tgz#9a5108e39976b88803d8bdcfd0d9ee1c480490e3"
+  integrity sha512-4P3VDrUmuG4MjMYw326Cfz2Q+lI5uVVoTDBFBtElQWF/aExbCJXZTHlYovZG502+UAowVuNVo5IuFHxELhambQ==
   dependencies:
     "@types/node" "*"
 
