@@ -169,7 +169,7 @@
 		"@types/node": "^11.9.3",
 		"@types/reflect-metadata": "^0.1.0",
 		"@types/socket.io-client": "^1.4.32",
-		"@types/stripe": "^6.19.5",
+		"@types/stripe": "^6.25.6",
 		"@types/swiper": "4.4.1",
 		"@types/uuid": "^3.4.4",
 		"@types/yargs": "^12.0.9",
