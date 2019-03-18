@@ -171,7 +171,7 @@
 		"@ngtools/webpack": "^7.3.4",
 		"@types/googlemaps": "^3.30.16",
 		"@types/hammerjs": "^2.0.36",
-		"@types/jasmine": "^3.3.9",
+		"@types/jasmine": "^3.3.11",
 		"@types/mongoose": "^5.3.20",
 		"@types/node": "^11.9.3",
 		"@types/socket.io-client": "^1.4.32",
