@@ -134,7 +134,7 @@
 		"sass-loader": "^7.1.0",
 		"save": "^2.3.3",
 		"socket.io-client": "^2.2.0",
-		"stripe": "^6.23.0",
+		"stripe": "^6.28.0",
 		"subscriptions-transport-ws": "^0.9.15",
 		"swiper": "4.4.6",
 		"tslib": "^1.9.3",
